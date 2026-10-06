@@ -8,7 +8,7 @@ term = xterm-256color
 #font-family = LythMono Nerd Font
 #font-family = Monaspace Neon NF
 font-family = JetBrainsMono Nerd Font  
-font-size = 18
+font-size = 16
 
 # theme = Kanagawa Wave
 # theme = Solarized Dark Patched
